@@ -1,7 +1,7 @@
 # Azure AI Services Project
 
 ## Overview
-This project leverages various Azure AI services to build a scalable and intelligent solution for translating and managing community feedback. Below, you will find a breakdown of the Azure AI services used, their purposes, and how they are integrated into the project.
+This project's aim is to display my skills leveraging various Azure AI services to build a scalable and intelligent solution for translating and managing community feedback. Below, you will find a breakdown of the Azure AI services used, their purposes, and how they are integrated into the project.
 
 ## Services Used
 
