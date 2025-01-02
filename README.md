@@ -10,5 +10,5 @@ Azure AI Services redefines how we approach artificial intelligence by consolida
 
 - Every tool, from Custom Vision to Translator to Azure OpenAI, is already integrated and ready to use. No extra steps, no fragmented workflows—just seamless AI capabilities at your fingertips.
 
-### Why 
+### Why This
 By grouping these services under one structure, Azure AI simplifies your workflow, boosts productivity, and frees you to focus on what really matters: creating impactful solutions. With Azure AI Services, the barriers to building intelligent applications disappear, and you can achieve more with less effort.
